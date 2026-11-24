@@ -1,6 +1,6 @@
 # 🍽️ Website UMKM Kuliner
 
-Repository ini berisi source code pengembangan website untuk salah satu UMKM di bidang kuliner. Proyek ini dibuat sebagai bagian dari tugas perkuliahan/sekolah dengan tujuan membantu UMKM memanfaatkan teknologi digital sebagai media informasi dan promosi usaha.
+Repository ini berisi source code pengembangan website untuk salah satu UMKM di bidang kuliner. Proyek ini dibuat sebagai bagian dari tugas perkuliahan dengan tujuan membantu UMKM memanfaatkan teknologi digital sebagai media informasi dan promosi usaha.
 
 Website dirancang dengan memperhatikan karakteristik, identitas, dan kebutuhan UMKM yang menjadi objek pengembangan.
 
